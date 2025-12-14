@@ -12,4 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce90b45f3f4473f4ab87db134f35723c, type: 3}
   m_Name: LevelPieces
   m_EditorClassIdentifier: Assembly-CSharp::LevelPieces
-  levelPieces: []
+  levelPieces:
+  - {fileID: 1693887426391792359, guid: 05b6968cb8756f04dbaf56eaeb7a3c96, type: 3}
+  - {fileID: 4961543738840824437, guid: d64fe42d56ef7a54baf22b3cbb7d6685, type: 3}
+  - {fileID: 4653169608924665336, guid: 742984c4d35508c44a85d29e6e918ea8, type: 3}
